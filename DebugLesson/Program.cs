@@ -14,7 +14,7 @@ namespace DebugLesson
             Console.WriteLine($"Имя пользователя - {user.Name} | Возраст пользователя - {user.Age}");
 
             Console.WriteLine(new string('-', 25));
-            UserService.Print();
+            UserServicex.Print();
         }
 
         private static User GetUser(string name)

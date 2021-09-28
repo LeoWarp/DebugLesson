@@ -11,7 +11,7 @@ namespace DebugLesson
         public int Age { get; set; }
     }
     
-    public static class UserService
+    public static class UserServicex
     {
         public static List<User> Users = new List<User>()
         {
