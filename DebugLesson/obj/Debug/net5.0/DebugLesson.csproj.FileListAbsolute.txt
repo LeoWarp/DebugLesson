@@ -1,0 +1,16 @@
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\bin\Debug\net5.0\DebugLesson.exe
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\bin\Debug\net5.0\DebugLesson.deps.json
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\bin\Debug\net5.0\DebugLesson.runtimeconfig.json
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\bin\Debug\net5.0\DebugLesson.runtimeconfig.dev.json
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\bin\Debug\net5.0\DebugLesson.dll
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\bin\Debug\net5.0\ref\DebugLesson.dll
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\bin\Debug\net5.0\DebugLesson.pdb
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\obj\Debug\net5.0\DebugLesson.csproj.AssemblyReference.cache
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\obj\Debug\net5.0\DebugLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\obj\Debug\net5.0\DebugLesson.AssemblyInfoInputs.cache
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\obj\Debug\net5.0\DebugLesson.AssemblyInfo.cs
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\obj\Debug\net5.0\DebugLesson.csproj.CoreCompileInputs.cache
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\obj\Debug\net5.0\DebugLesson.dll
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\obj\Debug\net5.0\ref\DebugLesson.dll
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\obj\Debug\net5.0\DebugLesson.pdb
+C:\Users\leowa\Desktop\DebugLesson\DebugLesson\obj\Debug\net5.0\DebugLesson.genruntimeconfig.cache
