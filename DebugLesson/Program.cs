@@ -6,7 +6,7 @@ namespace DebugLesson
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello, epta!");
         }
     }
 }
